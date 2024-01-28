@@ -1,0 +1,23 @@
+
+body{
+    background-color: beige;
+}
+
+#profile_photo{
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+#description {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+td{
+    padding: 0px 10px;
+    white-space:inherit
+}
+
+
